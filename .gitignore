@@ -1,0 +1,12 @@
+*.iml
+*.log
+reports/
+surefire/
+target/
+temp
+*/.idea/*
+*.ipr
+*.iws
+.idea/*
+./idea/*
+./idea
