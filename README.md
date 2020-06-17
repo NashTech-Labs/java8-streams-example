@@ -7,6 +7,5 @@ A project that consist examples of Java 8 Stream API with test cases and documen
 1. Maven 3.6.1 [download](https://maven.apache.org/download.cgi) and follow instructions for [installation](https://maven.apache.org/install.html)
 
 ### How to run the starter project?
-1. to pull the repository from Github .
 1. To build the service: Open the `java8-stream-example` folder in terminal and run `mvn clean install`.
 1. To run the test cases: run `mvn clean test`.
